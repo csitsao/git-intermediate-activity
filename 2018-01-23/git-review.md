@@ -1,6 +1,6 @@
 Describe with your own words what the following command is doing or answer the question?
 
-1. `git add -A`
+1. `git add -A`: Stage all modifications at once.
 
 1. `git commit -m “My first commit”`
 
